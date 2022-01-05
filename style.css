@@ -14,6 +14,18 @@
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.mid-banner{
+    display: flex;
+}
+.third-section{
+    display: flex;
+}
+.fourth-section{
+    display: flex;
+}
+.fifth-section{
+    display: flex;
+}
 body{
     margin: 0%;
 }
@@ -21,7 +33,35 @@ body{
     width: 50%;
     padding: 5%;
 }
+.halfWidth1{
+    width: 50%;
+    padding: 5%;
+}
+.halfWidth2{
+    width: 50%;
+    padding: 5%;
+}
+.halfWidth3{
+    width: 50%;
+    padding: 5%;
+}
+.halfWidth4{
+    width: 50%;
+    padding: 5%;
+}
 .halfWidth img{
+    width: 100%;
+}
+.halfWidth1 img{
+    width: 100%;
+}
+.halfWidth2 img{
+    width: 100%;
+}
+.halfWidth3 img{
+    width: 100%;
+}
+.halfWidth4 img{
     width: 100%;
 }
 p{
@@ -34,6 +74,60 @@ p{
     color:blanchedalmond;
     background-image: linear-gradient(orange,red);
     padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    font-family: 'Audiowide', cursive;
+    margin-top: auto;
+}
+.wca-button{
+    text-decoration: none;
+    color:blanchedalmond;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 5px;
+    font-family: 'Audiowide', cursive;
+    margin-top: auto;
+}
+.git-button{
+    text-decoration: none;
+    color:blanchedalmond;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 30px;
+    font-size: larger;
+    font-weight: 700;
+    border-radius: 5px;
+    font-family: 'Audiowide', cursive;
+    margin-top: auto;
+}
+.cf-button{
+    text-decoration: none;
+    color:blanchedalmond;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 30px;
+    font-size: larger;
+    font-weight: 700;
+    border-radius: 5px;
+    font-family: 'Audiowide', cursive;
+    margin-top: auto;
+}
+.uri-button{
+    text-decoration: none;
+    color:blanchedalmond;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 30px;
+    font-size: larger;
+    font-weight: 700;
+    border-radius: 5px;
+    font-family: 'Audiowide', cursive;
+    margin-top: auto;
+}
+.ig-button{
+    text-decoration: none;
+    color:blanchedalmond;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 30px;
+    font-size: larger;
     font-weight: 700;
     border-radius: 5px;
     font-family: 'Audiowide', cursive;
