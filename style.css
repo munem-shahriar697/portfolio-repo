@@ -9,8 +9,13 @@
 .name{
     color: cadetblue;
 }
-.firstsection{
+.top-banner{
     display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0%;
 }
 .halfWidth{
     width: 50%;
