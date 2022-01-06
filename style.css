@@ -81,10 +81,19 @@ body{
     padding: 5%;
     margin-left: 5%;
     margin-right: 5%;
-    border: 5px red;
-    
+    margin-bottom: 150px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px yellowgreen;
+}
+#line-border1{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#line-border2{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(158, 0, 0),orange);
+    border-image-slice: 1;
 }
 .experience-area{
     padding-bottom: 10%;
@@ -172,4 +181,7 @@ p{
     border-radius: 5px;
     font-family: 'Audiowide', cursive;
     margin-top: auto;
+}
+.footer{
+    text-align: center;
 }
