@@ -16,15 +16,25 @@
 }
 .mid-banner{
     display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .third-section{
     display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
 .fourth-section{
     display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .fifth-section{
     display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
 body{
     margin: 0%;
